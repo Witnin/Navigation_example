@@ -1,0 +1,26 @@
+{
+  "main/tabs/dash": {
+    "asStarter": false,
+    "needLogin": true,
+    "className": "com.wsy.navigation.ui.dashboard.DashboardFragment",
+    "pageUrl": "main/tabs/dash",
+    "id": 350653044,
+    "destType": "fragment"
+  },
+  "main/tabs/home": {
+    "asStarter": true,
+    "needLogin": true,
+    "className": "com.wsy.navigation.ui.home.HomeFragment",
+    "pageUrl": "main/tabs/home",
+    "id": 330662624,
+    "destType": "fragment"
+  },
+  "main/tabs/notification": {
+    "asStarter": false,
+    "needLogin": true,
+    "className": "com.wsy.navigation.ui.notifications.NotificationsFragment",
+    "pageUrl": "main/tabs/notification",
+    "id": 467823156,
+    "destType": "fragment"
+  }
+}
